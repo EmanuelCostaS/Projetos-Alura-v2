@@ -10,4 +10,4 @@ function lowestValue(array, inicialPosition){
     return cheapest; 
 }
 
-module.exports = lowestValue; 
+module.exports = lowestValue;
